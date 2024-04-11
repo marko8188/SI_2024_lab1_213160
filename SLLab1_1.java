@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -11,6 +12,6 @@ public class SILab1_1 {
         }
         return result;
     }
-        System.out.println(SILab1_1.filterOddLengthStrings(list));
+System.out.println(SILab1_1.filterOddLengthStrings(list));
 
 }
