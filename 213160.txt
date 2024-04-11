@@ -1,0 +1,28 @@
+1. Instaliran e Git i kreiran e profil na Github.
+2. Promeneto e imeto master
+3. Kreiran e repozitorium
+4. Kreiran e direktorium (lokalen repozitorium)
+5. napraven e lokalen direktorium so pomos na komandata mkdir i vleguvame so komandata cd
+6. pravime readme.md datoteka so komandata git add, pa pravime git commit  -m "initial commit" 
+7. gi prezemame trite fajlovi, gi dodavame so komandata git add i so komandata git commit -m "Add starter code" pravime commit
+8. gi sinhronizirame grankite so komandata git pull,pa so komandata nano vleguvame vo fajlovite i gi pravime izmenite vo kodot
+9.pravime dve granki so pomos na komandata git branch
+10.se prefrlame so komandata checkout 
+11.greskata ja popravame so komandata nano
+12.se prefrlame so komandata git checkout
+13. greskata ja popravame so komandata nano
+14. se prefrlame so komandata git checkout bug1
+15.vlegvuame vo datotekata so komandata nano i ja dodavame linijata kod na line 16.
+16. se vrakjame so komandata git checkout bug2
+17. isto kako i na 15tiot cekor vleguvame i go menuvame kodot.
+18.sinhronizirame so git pull
+19.git checkout master
+20. git merge bug1 za da gi spoime
+21. sinhronizirame so git pull
+22. git checkout bug2 za da se prefrlime
+23. pravime rebase so komandata git rebase master
+24. git checkout master
+25. git merge bug2 za da ja spoime so master
+26.sinhronizirame so git pull
+27.sinhronizirame so git pull
+28.
