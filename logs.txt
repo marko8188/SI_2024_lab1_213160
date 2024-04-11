@@ -1,0 +1,37 @@
+Marko@DESKTOP-AON3IHS MINGW64 ~/SI_2024_lab1_213160 (master)
+$ git log
+commit 940a0c8bcb0246a7cffcdbd625e16a436a45c990 (HEAD -> master, origin/master, bug2)
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:28:08 2024 +0200
+
+    Call method makeBigStringFrom in main class.
+
+commit 82de75668a567d2c8bbc3a6e24ec0e19a249523f
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:18:45 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom.
+
+commit e650d4a2f89ccd9a90cf287666c7eb05fdc012d3 (bug1)
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:27:08 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 3e5438fe1311de683d31caeb9a401d05e2ddc144
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:19:56 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings.
+
+commit baa8211c7536b192c263361c4a0200398730f065
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:03:02 2024 +0200
+
+    Add starter code
+
+commit b8c8bdf582269f64d549e671cd0badabd71eca3c
+Author: unknown <marko.karajovanoski@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:01:02 2024 +0200
+
+    Add starter code
